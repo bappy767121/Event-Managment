@@ -1,0 +1,16 @@
+// Layout Scripts
+jQuery(document).ready(function($) {
+
+	// Filter items when filter link is clicked
+	$('#portfolio-filter a').click(function() {
+		selector = $(this).attr('data-filter');
+		
+		$container.isotope({
+			filter: selector
+		});
+		$('a.active').removeClass('active');
+		$(this).addClass('active');
+		
+		return false;
+	});
+});

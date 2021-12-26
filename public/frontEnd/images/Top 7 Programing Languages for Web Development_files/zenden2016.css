@@ -1,0 +1,177 @@
+.content-upper     {background: rgba(0, 0, 0, 1) !important;
+}
+
+video {
+    opacity: .65 !important;
+}
+
+.video-container2 {
+    background: #000;
+}
+
+.bottom {font-size: 12px !important;}
+
+.bottom .social li {
+      width: 38px !Important;
+    text-align: center !Important;
+    height: 37px !Important;
+
+}
+
+.bottom .social li.badge {
+    padding: 0 !important;
+    width: 94px !important;
+}
+
+.menu-trigger:before {
+    background: #2b905a !important;
+    box-shadow: 0 6px transparent, 0 10px #2b905a, 0 18px transparent, 0 20px #2b905a !important;
+}
+
+.content .video div.text-overlay p {
+    width: 670px !important;
+}
+
+.content-lower-inner.post-footer {
+	    margin: 0!important;
+		max-width: 100%!important;
+		padding: 0!important;
+    }
+
+
+.rotatingtweet {
+	max-width: 100% !important;
+	width:auto !important;
+	}
+
+/*
+.page-id-6 h1.section-title {
+    font-weight: 300 !important;
+    font-size: 16px !important;
+    letter-spacing: 1px !important;
+}
+
+.page-id-6 h2.location {
+    color: #000 !important;
+    font-weight: 700 !important;
+    font-size: 37px !important;
+}
+
+.page-portfolio-template .copy {
+    padding: 85px 80px 70px !Important;
+}
+
+.page-id-6 .page-portfolio-template .location, .page-portfolio-template .taxonomy {
+    padding-bottom: 30px !Important;
+}
+
+.page-id-6 .taxonomy {
+    font-size: 18px !important;
+    letter-spacing: 1px !important;
+  padding-bottom: 30px !important;
+}
+
+.page-id-6  .btn-hollow {
+    padding: 16px 31px !Important;
+    margin: 30px auto 0 !Important;
+    text-align: center !Important;
+    position: relative !Important;
+    display: block !Important;
+    width: 186px !Important;
+    color: #000 !Important;
+    font-size: 14px !Important;
+    font-weight: 600 !Important;
+    letter-spacing: 1px !Important;
+}
+
+.page-id-6 .launch {
+    text-transform: uppercase !Important;
+    font-weight: 700 !Important;
+    font-size: 13px !Important;
+}
+
+.page-id-6 .hentry p {
+    font-size: 14px !important;
+}
+
+.page-id-6  span {
+    color: #000 !Important;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    font-size: 13px !important;
+    letter-spacing: 1px !important;
+}
+
+.page-id-6 .page-portfolio-template .hentry footer .fa {
+    vertical-align: -10px !important;
+    color: #000 !important;
+    font-size: 48px !important;
+    margin-left: 4px !important;
+}
+
+.page-id-6 .page-portfolio-template .hentry footer .right {
+    margin-top: 13px !important;
+}
+
+.page-id-6 .port-copy {
+  height: 195px;
+  overflow: hidden;
+  font-size: 14px !important;
+}
+
+
+.page-id-6 .copy {
+    padding: 20px 50px 50px !important;
+    background-color: #fff;
+}
+
+
+.page-id-6 img {
+  opacity:.7 !important;
+    	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+}
+
+.page-id-6 img:hover {opacity:1 !important;}
+
+.page-id-6 .menu-trigger:before {
+    background: #fff !important;
+    box-shadow: 0 6px transparent, 0 10px #fff, 0 18px transparent, 0 20px #fff !important;
+}
+*/
+
+.page-portfolio-template .image.block {
+    background-color: #000;
+}
+
+.project img {opacity:1 !Important;}
+
+.project .copy {
+    background-color: transparent;
+}
+
+.project p {margin-bottom:25px; font-size: 15px;}
+
+
+@media screen and (max-width: 480px) {
+
+	section.home-feature-quote .half:first-child {
+		height: auto !important;
+	}
+
+}
+
+.thank-you h1 {
+    text-align: center;
+    font-size: 40px;
+    /* top: 40%; */
+    position: relative;
+    padding: 20% 0 0;
+}
+
+.thank-you h2 {
+    text-align: center;
+    font-size: 25px;
+}
